@@ -1,0 +1,13 @@
+Source: dobi
+Section: net
+Priority: optional
+Maintainer: Wish Engineering <launchpad@contextlogic.com>
+Build-Depends: debhelper (>= 10), golang-1.13
+Standards-Version: 4.1.2
+Homepage: <insert the upstream URL, if relevant>
+
+Package: dobi
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
