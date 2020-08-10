@@ -1,6 +1,13 @@
+dobi (0.14.0-0~202008081718) bionic; urgency=medium
+
+  * Update to dobi 0.14.0
+
+ -- Wish Engineering <launchpad@contextlogic.com>  Mon, 10 Aug 2020 17:44:00 +0000
+
 dobi (0.13.0-1+1+20200101) bionic; urgency=medium
 
   * Package dobi
 
  -- Wish Engineering <launchpad@contextlogic.com>  Mon, 20 Apr 2020 11:40:00 +0000
+
 
